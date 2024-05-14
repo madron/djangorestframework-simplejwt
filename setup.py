@@ -56,7 +56,7 @@ setup(
     author="David Sanders",
     author_email="davesque@gmail.com",
     install_requires=[
-        "django>=3.2",
+        "django>=2.2",
         "djangorestframework>=3.12",
         "pyjwt>=1.7.1,<3",
     ],
